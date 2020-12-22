@@ -1,6 +1,6 @@
 # NodeJS-TypeScript-Babel-Jest
 
-This is fork from [link](https://github.com/microsoft/TypeScript-Babel-Starter)
+This is fork from [microsoft TS Babel starter](https://github.com/microsoft/TypeScript-Babel-Starter)
 
 Its a pre-configured Typescript with Jest project, which can be used for writing code (may be try out modules) in typescript as well as write tests.
 
@@ -8,7 +8,7 @@ Its a pre-configured Typescript with Jest project, which can be used for writing
 
 I wanted to have starter code with pre-configured typescript and Jest.
 
-I dont have much experience but this seems to be a good starting point.
+I dont have much experience but this seems to be a good starting point and will improve upon suggestions.
 
 
 # Commands
