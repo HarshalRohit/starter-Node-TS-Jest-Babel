@@ -22,3 +22,7 @@ console.log(
 console.log(
     calculator.divide(10, 2)
 );
+
+import {sum} from './sum'
+
+console.log(sum(20, 25));
