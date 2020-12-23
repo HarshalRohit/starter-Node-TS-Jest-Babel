@@ -30,6 +30,12 @@ npm run type-check:watch
 npm run start
 ```
 
+## Run any .ts file
+
+```shell
+npm start src/sum.ts
+```
+
 ## Run Tests
 ```shell
 npx jest
